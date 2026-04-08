@@ -78,7 +78,7 @@ Day 5: Module 5 - Testing
 Day 6: Capstone Project - Apply All Skills
 ```
 
-**Total Time Commitment:** 16 hours 
+**Total Time Commitment:** 24 hours 
 
 ---
 

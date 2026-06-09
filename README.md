@@ -39,7 +39,7 @@ Welcome to the **AI Enabled Developer** training program! This comprehensive cou
 - Following the training, learners will demonstrate practical competency by completing the 
 Microsoft Applied Skills assessment and obtaining **The Accelerate app development by using GitHub Copilot** applied skill certification.
 
-> **Note:** [Register now](https://forms.office.com/r/LdUxMahBQZ) if you haven’t registered yet.
+> **Note:** [Register now](https://www.resourcecloud.ai/) if you haven’t registered yet.
 ---
 
 ## 📚 Course Modules
